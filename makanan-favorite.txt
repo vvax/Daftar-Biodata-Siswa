@@ -2,3 +2,4 @@
 -Soto
 -Bakso
 -Sambal
+- NAsi
